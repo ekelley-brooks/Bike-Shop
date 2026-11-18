@@ -2,7 +2,7 @@ public class Main{
     public static void main(String[] args){
         BikeShop shopBikes = new BikeShop();
 
-        Bycicle b1 = new Bycicle("bob", "electric");
+        Bycicle b1 = new Bycicle("Bob", "electric");
         Bycicle b2 = new Bycicle("Joey", "mountain");
 
         System.out.println(b1);
